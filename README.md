@@ -21,7 +21,7 @@
 ## 📚 Libraries
 <div>
   <img src="https://data.t3l.ls/media/icons/other/expressjs.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-  <img src="https://data.t3l.ls/media/icons/other/pandas.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://data.t3l.ls/media/icons/other/pandasicon.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 </div>
 
