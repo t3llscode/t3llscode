@@ -10,7 +10,7 @@
 ## 🧰 Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://t3l.ls/data/media/icons/other/nextjs.svg" title="NextJS" alt="NextJS" width="40" height="40">&nbsp;
+  <img src="https://t3lls.com//data/media/icons/other/nextjs.svg" title="NextJS" alt="NextJS" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
@@ -20,8 +20,8 @@
 
 ## 📚 Libraries
 <div>
-  <img src="https://t3l.ls/data/media/icons/other/expressjs.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-  <img src="https://t3l.ls/data/media/icons/other/pandasicon.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://t3lls.com/data/media/icons/other/expressjs.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
+  <img src="https://t3lls.com//data/media/icons/other/pandasicon.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
 </div>
 
