@@ -26,6 +26,7 @@
   <img src="https://t3lls.com/data/media/icons/other/pandasicon.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://t3lls.com/data/media/icons/other/expressjs.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
 </div>
 
 <!--
