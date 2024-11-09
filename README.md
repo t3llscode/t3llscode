@@ -37,6 +37,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;
 </div>
 
+Last Updated: 2024-10-10
+
 <!--
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t3llscode&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
