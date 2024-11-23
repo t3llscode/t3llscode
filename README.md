@@ -37,4 +37,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;
 </div>
 
-##### Last Updated: 10th October 2024
+##### Last Updated: 10th of October 2024
